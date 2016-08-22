@@ -1,6 +1,6 @@
 <?php
 return array (
-  'Add a member to notify' => 'اضافه کردن کاربر برای اعلام کردن',
+  'Add a member to notify' => 'اضافه کردن کاربر برای اعلام',
   'Make private' => 'خصوصی‌سازی',
   'Make public' => 'عمومی‌سازی',
   'Notify members' => 'اعلام کردن به اعضا',
