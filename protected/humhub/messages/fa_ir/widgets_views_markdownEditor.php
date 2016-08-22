@@ -22,7 +22,7 @@ return array (
   'URL/Link' => 'آدرس/لینک',
   'code text here' => 'متن را اینجا کد کنید',
   'emphasized text' => 'متن تاکیدشده',
-  'enter image description here' => 'توضیحات عکی را اینجا وارد کنید',
+  'enter image description here' => 'توضیحات عکس را اینجا وارد کنید',
   'enter image title here' => 'عنوان عکس را اینجا وارد کنید',
   'enter link description here' => 'توضیحات لینک را اینجا وارد کنید',
   'heading text' => 'متن تیتر',
