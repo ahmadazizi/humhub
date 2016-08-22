@@ -12,7 +12,7 @@ return array (
   'Could not determine content container!' => 'نگهدارنده‌ی محتوا قابل شناسایی نیست!',
   'Could not find content of addon!' => 'محتوای افزونه پیدا‌نشد!',
   'Default' => 'پيش فرض',
-  'Deny' => 'انكار كردن',
+  'Deny' => 'عدم قبول',
   'Error' => 'خطا',
   'Expand' => 'باز‌کردن',
   'It looks like you may have taken the wrong turn.' => 'به نظر می‌رسد مسیر اشتباه را طی کرده‌اید.',
