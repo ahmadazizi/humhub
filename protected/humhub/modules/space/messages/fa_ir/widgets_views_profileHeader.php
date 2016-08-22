@@ -2,8 +2,8 @@
 return array (
   '<strong>Something</strong> went wrong' => '<strong>یک قسمت</strong> ایراد دارد',
   'Close' => 'بستن',
-  'Followers' => 'دنبال‌کننده‌ها',
-  'Members' => 'اعضا',
+  'Followers' => 'دنبال‌کننده',
+  'Members' => 'عضو',
   'Ok' => 'Ok',
-  'Posts' => 'پست‌ها',
+  'Posts' => 'پست',
 );
